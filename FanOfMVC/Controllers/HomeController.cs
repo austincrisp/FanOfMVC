@@ -13,6 +13,21 @@ namespace FanOfMVC.Controllers
             return View();
         }
 
+        public ActionResult VII()
+        {
+            return View();
+        }
+
+        public ActionResult XIV()
+        {
+            return View();
+        }
+
+        public ActionResult XV()
+        {
+            return View();
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";

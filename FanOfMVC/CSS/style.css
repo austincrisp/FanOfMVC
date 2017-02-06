@@ -1,0 +1,26 @@
+﻿body
+{
+    background-image: url(../Images/Final-Fantasy-Wallpaper.jpg);
+    background-color: #cccccc;
+    font-family: sans-serif;
+}
+
+.carousel-caption
+{
+    background-color: black;
+    opacity: 0.85;
+    border: 2px black;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-size: medium;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+footer
+{
+    font-family: sans-serif;
+    font-size: medium;
+    color: darkgrey;
+}
