@@ -18,6 +18,29 @@
     padding-left: 10px;
 }
 
+#ff7
+{
+    margin-top: 50px;
+    background-color: whitesmoke;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#ff14
+{
+    margin-top: 50px;
+    background-color: whitesmoke;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.preview
+{
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: white;
+}
+
 #about ul 
 {
     list-style-type: none;
