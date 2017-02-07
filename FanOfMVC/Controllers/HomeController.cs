@@ -30,14 +30,14 @@ namespace FanOfMVC.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "So why make a Final Fantasy fansite you might say?  Pretty simple.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Have some ideas of things I can add? Let me know!";
 
             return View();
         }

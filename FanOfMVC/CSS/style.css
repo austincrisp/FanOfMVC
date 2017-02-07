@@ -18,6 +18,28 @@
     padding-left: 10px;
 }
 
+#about ul 
+{
+    list-style-type: none;
+}
+
+#about li a
+{
+    text-decoration: none;
+}
+
+#contactMessage
+{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#contactMessage button
+{
+    margin-bottom: 10px;
+}
+
 footer
 {
     font-family: sans-serif;
